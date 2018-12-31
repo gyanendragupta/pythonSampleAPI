@@ -1,0 +1,3 @@
+Create table employees (id number, name varchar2, leaves_total number, leaves_applied number, leaves_balance number)
+insert into employees values (155109, 'Harsh Gupta', 24, 12, 12);
+
