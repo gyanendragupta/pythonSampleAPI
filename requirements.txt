@@ -1,0 +1,4 @@
+## Setup requirements
+flask
+flask-restful
+sqlalchemy
